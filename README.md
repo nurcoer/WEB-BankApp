@@ -1,6 +1,6 @@
 # WEB-BankApp
 
-##Banka Uygulaması 
+Banka Uygulaması 
 
 Bulundurduğu Özellikler:
 
@@ -12,7 +12,7 @@ Bulundurduğu Özellikler:
 -Bakiye Yükleme
 -Bakiye Çekme
 -Havale/ Virman İşlemleri
--Hgs'ye Sitem Üzerinden Para Yükleme
+-Hgs'ye Sistem Üzerinden Para Yükleme
 -Kullanıcının Kredi Çekip Çekemeyecegini Hesaplayan Kısım (EKLENECEK)
 
 
