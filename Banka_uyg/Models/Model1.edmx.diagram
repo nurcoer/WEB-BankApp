@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="06d5f8d9cce64f8a90b1af297f39fe98" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Havale" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Hesaplar" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Hgs" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Kredi" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Musteriler" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Virman" Width="1.5" PointX="3" PointY="10.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Havale_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Hesaplar_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Hgs_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Kredi_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Virman_Musteriler" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
