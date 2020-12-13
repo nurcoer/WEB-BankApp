@@ -1,18 +1,27 @@
 # WEB-BankApp
 
-Banka Uygulaması 
+## Bank Application
+ 
+### Features:
 
-Bulundurduğu Özellikler:
+-User Registration
 
--Kullanıcı Kayıt
--Kullanıcı Giriş 
--Hesap Oluşturma
--Hesap Kapatma
--Hesap Listeleme
--Bakiye Yükleme
--Bakiye Çekme
--Havale/ Virman İşlemleri
--Hgs'ye Sistem Üzerinden Para Yükleme
--Kullanıcının Kredi Çekip Çekemeyecegini Hesaplayan Kısım (EKLENECEK)
+-User login
+
+-Creating an Account
+
+-Close account
+
+-Account Listing
+
+-Loading Balance
+
+-Balance Withdrawal
+
+-Remittance / Money Order Transactions
+
+-Adding Hgs money through the system
+
+-Machine learning that calculates whether the user can Withdraw Credits (TO BE ADDED)
 
 
